@@ -1,4 +1,5 @@
 ﻿using System;
+using FizzConsole.Library.Models;
 
 namespace FizzBuzz.Client
 {
@@ -6,8 +7,8 @@ namespace FizzBuzz.Client
     {
         static void Main(string[] args)
         {
-            var fizz= new GenericFizz<string>;
-            var buzz = new GenericBuzz<string>;
+            var fizz = new GenericFizz();
+            fizz.Input();
         }
     }
 }

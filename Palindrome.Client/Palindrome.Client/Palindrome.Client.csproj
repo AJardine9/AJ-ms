@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FizzConsole.Library\FizzConsole.Library.csproj" />
+    <ProjectReference Include="..\Palindrome.Library\Palindrome.Library.csproj" />
   </ItemGroup>
 
 </Project>

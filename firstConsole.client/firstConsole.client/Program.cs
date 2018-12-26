@@ -6,7 +6,8 @@ namespace firstConsole.client
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            }
         }
     }
 }

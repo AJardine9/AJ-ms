@@ -6,5 +6,6 @@ namespace BuzzConsole.Library.Models
 {
     class GenericBuzz
     {
+
     }
 }
