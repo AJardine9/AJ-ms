@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VarianceWorld.Domain", "VarianceWorld.Domain.csproj", "{B7202599-C074-4771-B64D-263CECC46163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7202599-C074-4771-B64D-263CECC46163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7202599-C074-4771-B64D-263CECC46163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7202599-C074-4771-B64D-263CECC46163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7202599-C074-4771-B64D-263CECC46163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AD43E30-917F-4E9C-A2C5-3CE83695605C}
+	EndGlobalSection
+EndGlobal
